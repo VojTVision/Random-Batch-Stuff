@@ -1,0 +1,15 @@
+@echo off
+title BatchFile3
+color a
+:a
+echo 1234567890
+echo 2345678901
+echo 3456789012
+echo 4567890123
+echo 5678901234
+echo 6789012345
+echo 7890123456
+echo 8901234567
+echo 9012345678
+echo 0123456789
+goto a
